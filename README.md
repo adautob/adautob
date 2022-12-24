@@ -1,4 +1,4 @@
-### Olá!!! 👋
+### Olá!!! 👋 ☕
 
 ![Adauto GitHub stats](https://github-readme-stats.vercel.app/api?username=adautob&show_icons=true&theme=radical)
 
